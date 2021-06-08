@@ -15,6 +15,16 @@ but to check how the model runs on normal images (computer generated), then run 
 ```
 python model_test.py
 ```
+Requirements:
+
+opencv
+
+absl-py
+
+re
+
+torch (for model testing)
+
 
 Contributors:
 
