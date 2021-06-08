@@ -19,7 +19,11 @@ python model_test.py
 Contributors:
 
 Prithviraj Kanaujia (18BCP084)
+
 Prachi Patel (18BCP078)
+
 Swara Jani (18BCP113)
+
 Pankti Shah (18BCP073)
+
 Parv Chauhan (18BCP077)
